@@ -1,0 +1,16 @@
+{
+  "short_name": "hifi-rs",
+  "name": "hifi-rs",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#78350f",
+  "background_color": "#0f172a"
+}
